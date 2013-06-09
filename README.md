@@ -23,7 +23,7 @@ Setup:
 1. git clone this repo
         
         cd ~/
-        git clone git@github.com:xiaotian/sublime-settings.git .sublime-settings
+        git clone git@github.com:xiaotian/sublime-settings.git .sublime-settings/
 
 1.  symlink User dir to our repo
 
