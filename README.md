@@ -31,4 +31,8 @@ Setup:
         cd "/Users/xiaotian/Library/Application Support/Sublime Text 2/Packages"
         rm -rf User
         ln -s ~/.sublime-settings User
+        
+1. make symlink for subl (command line launcher)
+
+        sudo ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/bin/subl
   
