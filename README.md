@@ -19,6 +19,7 @@ Setup:
 
         "Theme - soda"
         # restart sublime
+        # soda theme will not show up in color themes menu
 
 1. git clone this repo
         
