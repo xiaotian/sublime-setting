@@ -12,7 +12,7 @@ Setup:
 1. Install Package Control from:
         
         http://wbond.net/sublime_packages/package_control/installation
-        # paste the command into sublime text console
+        # paste the command into sublime text console (Ctrl + `)
         # restart sublime
 
 1. Install soda theme using Package Control
@@ -23,11 +23,11 @@ Setup:
 1. git clone this repo
         
         cd ~/
-        git clone git@github.com:xiaotian/sublime-setting.git .sublime-setting
+        git clone git@github.com:xiaotian/sublime-settings.git .sublime-settings
 
 1.  symlink User dir to our repo
 
         cd "/Users/xiaotian/Library/Application Support/Sublime Text 2/Packages"
-        rm -rf Users  
-        ln -s ~/.sublime-setting User
+        rm -rf User
+        ln -s ~/.sublime-settings User
   
