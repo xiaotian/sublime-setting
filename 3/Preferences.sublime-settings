@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Twilight.tmTheme",
+	"font": "Anonymous Pro",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"soda_classic_tabs": false,
+	"soda_folder_icons": true,
+	"theme": "Soda Dark 3.sublime-theme"
+}
